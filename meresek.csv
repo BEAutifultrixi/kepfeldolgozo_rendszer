@@ -1,0 +1,6 @@
+Algoritmus;Szekvencialis (ms);Parhuzamos (ms);Gyorsulas
+Negativ effekt CPU;0.46;0.54;0.84
+Szürkeányalatosítás CPU;0.72;0.23;3.15
+Fényerő növelése CPU;0.76;0.21;3.63
+Sobel elkereses CPU;3.21;0.48;6.69
+Box Blur;7.00;1.01;6.90

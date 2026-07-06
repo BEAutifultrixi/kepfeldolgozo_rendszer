@@ -1,0 +1,15 @@
+[package]
+name = "kepfeldolgozo_rendszer"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+rayon = "1.10"
+image = "0.25"
+
+clap = { version = "4.4", features = ["derive"] }
+
+wgpu = "0.19"
+pollster = "0.3"
+
+bytemuck = { version = "1.14", features = ["derive"] }

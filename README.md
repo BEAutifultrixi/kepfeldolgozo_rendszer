@@ -18,7 +18,7 @@ Ez a szoftver a szakdolgozatom gyakorlati implementációját képezi. A projekt
 
 ## Mérés és Adatgyűjtés
 
-A program futás végén nanoszekundumos pontossággal kiértékeli a végrehajtási időket, és kiszámítja a CPU-s gyorsulási faktort (Speedup).
+A program futás végén milliszekundumos pontossággal kiértékeli a végrehajtási időket, és kiszámítja a CPU-s gyorsulási faktort (Speedup).
 Az automatizált kiértékelés érdekében a rendszer a futási adatokat strukturált **`meresek.csv`** fájlba exportálja a projekt gyökerébe, ami azonnal importálható Excelbe vagy egyéb adatvizualizációs szoftverekbe diagramok generálásához.
 
 ## Használati Útmutató
